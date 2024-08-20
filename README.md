@@ -1,4 +1,4 @@
-# Spotify_Playlist_Analysis
+# Spotify Playlist Data Analysis | ML
 
 Attempting to predict song recommendations for a given playlist - similar to concept behind Spotify's 'Smart Shuffle' feature. 
 
